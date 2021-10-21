@@ -1,4 +1,4 @@
-# competitive-coding <br>
+# Competitive-coding <br>
 
 # My steps:<br>
 1.	self ke liye small goal banao<br>
